@@ -3,8 +3,6 @@ by dam
 
 This repo contains projects completed during the Codecademy "Data Scientist: Machine Learning Specialist" career path. Will update time by time.
 
----
-
 ## 1. Data Science Projects
 
 ### a. Data Wrangling & Exploratory Data Analysis (EDA)  
@@ -14,7 +12,6 @@ Exploratory data analysis and data cleaning projects.
 
 ### c. Others  
 
----
 
 ## 2. Machine Learning Projects
 
