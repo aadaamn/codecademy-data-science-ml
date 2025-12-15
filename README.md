@@ -1,7 +1,7 @@
 # Codecademy Data Scientist: Machine Learning Specialist Projects  
 by dam
 
-This repo contains projects completed during the Codecademy "Data Scientist: Machine Learning Specialist" career path. Will update time by time.
+This repo contains projects completed during the Codecademy "Data Scientist: Machine Learning Specialist" career path. Will update from time to time.
 
 ## 1. Data Science Projects
 
